@@ -1,2 +1,2 @@
-# voting-page
-A voting page with user authentication.
+# voting-page-with-user-authentication
+This is a voting page with user authentication.
